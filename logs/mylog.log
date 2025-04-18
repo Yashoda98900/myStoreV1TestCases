@@ -1,0 +1,28 @@
+[INFO ] 2025-04-18 10:15:16.635 [main] MyStoreV1 - Url open
+[INFO ] 2025-04-18 10:15:16.658 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2025-04-18 10:15:20.054 [main] MyStoreV1 - Entered UserName
+[INFO ] 2025-04-18 10:15:20.176 [main] MyStoreV1 - Entered password
+[INFO ] 2025-04-18 10:15:20.258 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2025-04-18 10:15:23.101 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2025-04-18 10:15:23.142 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2025-04-18 10:15:26.070 [main] MyStoreV1 - Url open
+[INFO ] 2025-04-18 10:15:26.097 [main] MyStoreV1 -***************TestCase to Verify Product Filtering *****************
+[INFO ] 2025-04-18 10:15:28.111 [main] MyStoreV1 - Entered UserName
+[INFO ] 2025-04-18 10:15:28.201 [main] MyStoreV1 - Entered password
+[INFO ] 2025-04-18 10:15:28.286 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2025-04-18 10:15:30.055 [main] MyStoreV1 - Products are not sorted by price (low to high)
+[INFO ] 2025-04-18 10:15:33.423 [main] MyStoreV1 - Url open
+[INFO ] 2025-04-18 10:15:45.534 [main] MyStoreV1 - ******TestCase to Verify Cart functionality and Checkout Process******
+[INFO ] 2025-04-18 10:15:47.439 [main] MyStoreV1 - Entered UserName
+[INFO ] 2025-04-18 10:15:47.523 [main] MyStoreV1 - Entered password
+[INFO ] 2025-04-18 10:15:50.040 [main] MyStoreV1 - Clicked on Login Button
+[INFO ] 2025-04-18 10:15:52.295 [main] MyStoreV1 - Add Product in Cart..
+[INFO ] 2025-04-18 10:15:56.421 [main] MyStoreV1 - Clicked on Shopping cart
+[INFO ] 2025-04-18 10:15:56.572 [main] MyStoreV1 - Clicked on Check Out
+[INFO ] 2025-04-18 10:15:56.637 [main] MyStoreV1 - First Name is Enter
+[INFO ] 2025-04-18 10:15:59.364 [main] MyStoreV1 - Last name is Enter
+[INFO ] 2025-04-18 10:16:01.182 [main] MyStoreV1 - Postal Code is Enter
+[INFO ] 2025-04-18 10:16:02.555 [main] MyStoreV1 - Click On Continue..
+[INFO ] 2025-04-18 10:16:04.646 [main] MyStoreV1 - Click On Finish..
+[INFO ] 2025-04-18 10:16:04.657 [main] MyStoreV1 - THANK YOU FOR YOUR ORDER
+[INFO ] 2025-04-18 10:16:06.615 [main] MyStoreV1 - Order is Completed
