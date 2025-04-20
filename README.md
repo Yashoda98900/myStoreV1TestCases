@@ -5,6 +5,8 @@
 This project automates key functionalities of the MyStore web application using **Selenium WebDriver** and **TestNG**. It includes user interactions such as logging in, filtering products by price, adding specific products (like *Sauce Labs Onesie*) to the cart, and logging out — all structured using the Page Object Model (POM) design pattern.
 
 ---
+The Test Scenario Documentation is attached under the name 'Test_Plan' and contains both positive and negative test cases.
+---
 
 ## 🛠️ Tech Stack Used
 
